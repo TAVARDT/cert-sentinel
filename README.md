@@ -3,14 +3,14 @@
 <div align="center">
   <p>Automated TLS/SSL certificate & chain integrity watchdog. Designed for high-ticket B2B digital protection.</p>
   <p>
-    <a href="#-english">🇺🇸 English</a> | 
-    <a href="#-português">🇧🇷 Português</a>
+    <a href="#english">🇺🇸 English</a> | 
+    <a href="#portugues">🇧🇷 Português</a>
   </p>
 </div>
 
 ***
 
-## 🇺🇸 English
+<h2 id="english">🇺🇸 English</h2>
 
 ### Overview
 This repository contains the official TAVARDT certificate monitoring utility for production environments. Unplanned SSL certificate expirations break user trust, ruin SEO rankings, and cause catastrophic downtime in B2B transactions. Certificate Sentinel automates non-intrusive TLS/SSL inspections, validates intermediate trust chains, detects compromised certificate authorities (CAs), and dispatches early warning alerts before an incident occurs.
@@ -53,12 +53,12 @@ python3 sentinel.py example.com --json
 
 ### Contact & Services
 Looking for elite cybersecurity, zero-trust architecture, or incident recovery?
-* Website: [ag.tavardt.com/cybersecurity](https://ag.tavardt.com/)
-* Email: contact@tavardt.com
+* Website: [ag.tavardt.com/cybersecurity](https://ag.tavardt.com/cybersecurity)
+* Email: [contact@tavardt.com](mailto:contact@tavardt.com)
 
 ***
 
-## 🇧🇷 Português
+<h2 id="portugues">🇧🇷 Português</h2>
 
 ### Visão Geral
 Este repositório contém o utilitário oficial de monitoramento de certificados da TAVARDT para ambientes de produção. Expirações imprevistas de certificados SSL destroem a confiança de clientes, derrubam posições no Google e causam paradas catastróficas em transações B2B. O Certificate Sentinel automatiza a inspeção de TLS/SSL, valida cadeias de confiança intermediárias, detecta autoridades certificadoras (CAs) comprometidas e dispara alertas preventivos antes que um incidente aconteça.
@@ -102,4 +102,4 @@ python3 sentinel.py example.com.br --json
 ### Contato & Serviços
 Procurando por cibersegurança de elite, arquitetura zero-trust ou auditoria de infraestrutura?
 * Site: [ag.tavardt.com/br/ciberseguranca/](https://ag.tavardt.com/br/ciberseguranca/)
-* E-mail: contato@tavardt.com
+* E-mail: [contato@tavardt.com](mailto:contato@tavardt.com)
